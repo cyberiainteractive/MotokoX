@@ -8,8 +8,6 @@
 </p>
 
 # Working:
-- [x] Launching the game
-- [x] Reaching the main menu
 - [x] Gameplay
 - [x] Audio
 - [x] Software rendering
@@ -17,6 +15,8 @@
 - [x] 64MB support
 - [x] SDL3 support
 - [x] Native Xbox-style savegames
+- [x] Running from XISO/ISO/CD/DVD
+- [x] Auto resolution detection for 480p and 720p
 
 # Partially working:
 - [x] Controls (fully playable, controller is essentially mapped to real keys, making the game feel more like a PC port than it's PS2 counterpart despite sharing the same mappings. Prompts also still currently display their keyboard binding names instead of controller button names or icons)
@@ -27,11 +27,8 @@
 - [ ] Xemu support
 
 # Planned:
-- [ ] Native save integration that includes per-chapter save icons
 - [ ] Xbox button prompts + more controller-friendly UI options
 - [ ] Demo
-- [ ] XISO/HDD/CD/DVD support (see save integration)
-- [ ] Auto resolution detection to run the game in 480p or 720p, if performance allows.
 
 # Not Planned:
 - [ ] AE support or anything outside of a 1:1 port of the original game, as the port should feel like a native console release.
