@@ -15,20 +15,21 @@
 - [x] Software rendering
 - [x] Dual input methods (keyboard + mouse as well as controller)
 - [x] 64MB support
-- [x] Basic SDL3 support
+- [x] SDL3 support
 
 # Partially working:
-- [x] Controls (fully playable, controller is essentially mapped to real keys, making the game feel more like a PC port than it's PS2 counterpart. Prompts also still currently display their keyboard binding names instead of controller button names or icons)
+- [x] Controls (fully playable, controller is essentially mapped to real keys, making the game feel more like a PC port than it's PS2 counterpart despite sharing the same mappings. Prompts also still currently display their keyboard binding names instead of controller button names or icons)
+- [x] Hardware rendering (has depth calculation issues and occasional stutters)
+- [x] Saving (requires persist.dat be generated on first game launch if missing before the game saves, this is an existing OniFoxed issue)
+- [x] Level transitions (TCTF to Warehouse works but crashes shortly after the cutscene)
 
 # Not working:
-- [ ] Hardware rendering
 - [ ] Xemu support
-- [ ] Saving
 
 # Planned:
 - [ ] Native save integration that includes per-chapter save icons
 - [ ] Xbox button prompts + more controller-friendly UI options
-- [ ] Demo(?)
+- [ ] Demo
 - [ ] XISO/HDD/CD/DVD support (see save integration)
 - [ ] Auto resolution detection to run the game in 480p or 720p, if performance allows.
 
@@ -36,7 +37,6 @@
 - [ ] AE support or anything outside of a 1:1 port of the original game, as the port should feel like a native console release.
 
 # Untested:
-- [ ] Level transitions
 - [ ] Full retail gameplay (currently tested against the Windows demo)
 
 # Installation
