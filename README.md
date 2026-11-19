@@ -16,11 +16,11 @@
 - [x] Dual input methods (keyboard + mouse as well as controller)
 - [x] 64MB support
 - [x] SDL3 support
+- [x] Native Xbox-style savegames
 
 # Partially working:
 - [x] Controls (fully playable, controller is essentially mapped to real keys, making the game feel more like a PC port than it's PS2 counterpart despite sharing the same mappings. Prompts also still currently display their keyboard binding names instead of controller button names or icons)
 - [x] Hardware rendering (has depth calculation issues and occasional stutters)
-- [x] Saving (requires persist.dat be generated on first game launch if missing before the game saves, this is an existing OniFoxed issue)
 - [x] Level transitions (TCTF to Warehouse works but crashes shortly after the cutscene)
 
 # Not working:
