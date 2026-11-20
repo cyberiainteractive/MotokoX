@@ -8,20 +8,19 @@
 </p>
 
 # Working:
-- [x] Gameplay
+- [x] Gameplay (demo works start to finish)
 - [x] Audio
 - [x] Software rendering
 - [x] Dual input methods (keyboard + mouse as well as controller)
 - [x] 64MB support
 - [x] SDL3 support
+- [x] Controls + native controller input names
 - [x] Native Xbox-style savegames
 - [x] Running from XISO/ISO/CD/DVD
 - [x] Auto resolution detection for 480p and 720p
 
 # Partially working:
-- [x] Controls (fully playable, controller is essentially mapped to real keys, making the game feel more like a PC port than it's PS2 counterpart despite sharing the same mappings. Prompts also still currently display their keyboard binding names instead of controller button names or icons)
-- [x] Hardware rendering (has depth calculation issues and occasional stutters)
-- [x] Level transitions (TCTF to Warehouse works but crashes shortly after the cutscene)
+- [x] Hardware rendering (has occasional stutters)
 
 # Not working:
 - [ ] Xemu support
