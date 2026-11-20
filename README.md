@@ -37,8 +37,11 @@
 - [ ] Full retail gameplay (currently tested against the Windows demo)
 
 # Installation
-- Download and extract the latest release .zip file to your folder of choice
-- Copy your "GameDataFolder" folder from your Mac version or Windows demo version (1.1) of Oni beside "default.xbe". Game data is not provided with this port, nor will it ever be, but demo data may be provided at some point.
+- Create a new folder called "Oni" anywhere on your system
+- Copy your "GameDataFolder" folder from your Mac version or Windows demo version (1.1) of Oni beside "default.xbe". Retail game data is not provided with this port, nor will it ever be, but demo data may be provided at some point.
+- Download and extract the latest release .zip file to your folder of choice, selecting "yes" if asked if you'd like to replace any existing files.
+- You can then either package the folder as an .XISO, burn it to a disk, or copy it to your HDD to run it.
+- Run the game and that's it! Bungie's 2001 cult classic on your Xbox, a glimpse into what we could've had.
 - To copy/delete your save data, you can manage it from the Xbox dashboard like any retail Xbox game.
 
 # Building (NXDK)
@@ -46,6 +49,10 @@
 - TBA
 
 # Credits
+
+- Bungie - Oni
+- Rockstar Canada - Original controller input method that this port borrows
+- Mayo1970 - Renderer fixes + subtitle utility 
 
 Original README below.
 
