@@ -3,7 +3,10 @@
   <img src="Xbox/cover.png" alt="" /><br>
   <img src="screenshots/1.png" alt="" /><br>
   <img src="screenshots/3.png" alt="" /><br>
-  <img src="screenshots/2.png" alt="" /><br>
+  <img src="screenshots/save1.png" alt="" /><br>
+  <img src="screenshots/save2.png" alt="" /><br>
+  <img src="screenshots/save3.png" alt="" /><br>
+
 <i>Save data from OniFoXed, as viewed in the dashboard.</i><br>
 </p>
 
