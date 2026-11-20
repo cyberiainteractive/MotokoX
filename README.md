@@ -20,7 +20,7 @@
 - [x] 64MB support
 - [x] SDL3 support
 - [x] Controls + native Xbox controller input names
-- [x] In-Game Reset (using [IGR_SDL3](https://github.com/cyberiainteractive/cyberia-nxdk-libraries))
+- [x] In-Game Reset (using [IGR_SDL3](https://github.com/cyberiainteraktiv/cyberia-nxdk-libraries))
 - [x] Native Xbox-style savegames
 - [x] Running from XISO/ISO/CD/DVD
 
