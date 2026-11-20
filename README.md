@@ -33,6 +33,7 @@
 - [ ] Bink video support (so intro and outro videos don't currently work)
 
 # Planned:
+- [ ] Vibration
 - [ ] Demo
 
 # Not Planned:
@@ -57,7 +58,7 @@
 
 - Bungie - Oni
 - Rockstar Canada - Original controller input method that this port borrows
-- Mayo1970 - Renderer fixes + subtitle utility 
+- Mayo1970 - Renderer fixes + subtitle utility + profiling & optimization
 
 Original README below.
 
