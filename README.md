@@ -1,12 +1,13 @@
 # MotokoX
 <p align="center">
-  <em>Oni for the original Xbox using OniFoxed and NXDK.</em><br>
   <img src="Xbox/cover.png" alt="" /><br>
   <img src="screenshots/1.png" alt="" /><br>
   <img src="screenshots/3.png" alt="" /><br>
   <img src="screenshots/2.png" alt="" /><br>
 <i>Save data from OniFoXed, as viewed in the dashboard.</i><br>
 </p>
+
+<em>Oni for the original Xbox using OniFoxed and NXDK.</em><br>
 
 # Working:
 - [x] Gameplay (demo works start to finish)
