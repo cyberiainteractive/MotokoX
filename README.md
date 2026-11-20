@@ -24,6 +24,7 @@
 
 # Not working:
 - [ ] Xemu support
+- [ ] Bink video support (so intro and outro videos don't currently work)
 
 # Planned:
 - [ ] Xbox button prompts + more controller-friendly UI options
