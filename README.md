@@ -19,20 +19,20 @@
 - [x] Dual input methods (keyboard + mouse as well as controller)
 - [x] 64MB support
 - [x] SDL3 support
-- [x] Controls + native controller input names
+- [x] Controls + native Xbox controller input names
+- [x] In-Game Reset (using [IGR_SDL3](https://github.com/cyberiainteractive/cyberia-nxdk-libraries))
 - [x] Native Xbox-style savegames
 - [x] Running from XISO/ISO/CD/DVD
-- [x] Auto resolution detection for 480p and 720p
 
 # Partially working:
 - [x] Hardware rendering (has occasional stutters)
+- [x] Auto resolution detection for 480p and 720p (game still renders at 480p, and 720p performance hasn't been tested, but may only be viable on 128MB systems)
 
 # Not working:
 - [ ] Xemu support
 - [ ] Bink video support (so intro and outro videos don't currently work)
 
 # Planned:
-- [ ] Xbox button prompts + more controller-friendly UI options
 - [ ] Demo
 
 # Not Planned:
