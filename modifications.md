@@ -11,4 +11,4 @@ These were rewritten to allow menu navigation via the controller, a feature that
 This has been modified to save persist.dat (Oni's config + save file) in E:\UDATA\4D530012, create and copy the appropriate TitleMeta.xbx and TitleImage.xbx files on first run, and create the appropriate SaveMeta.xbx and copy over the appropriate SaveImage.xbx at every save point, so the game feels like a native console port and can be run from XISO, CD/DVD or HDD. This also inadvertently fixes an issue in OniFoxed where settings and save data won't save by default unless "persist.dat" is created first.
 
 ## Oni
-- [x] level0_Final.dat - Extracted, rewrote and repacked SUBTmessages.txt file to replace global keyboard input names with Xbox button name equivalents.
+- [x] level0_Final.dat - Extracted, rewrote and repacked SUBTmessages to replace global keyboard input names with Xbox button name equivalents.
